@@ -1,7 +1,7 @@
 package hsGlennLee.problemsAndAnswer.bitwise;
 import static hsGlennLee.problemsAndAnswer.bitwise.BitwiseUtil.printIntAsBinary;
 
-public class BitwiseBasicExample {
+public class BitwiseOperatorsExample {
 	public static void main(String[] args) {
 		
 		/*
